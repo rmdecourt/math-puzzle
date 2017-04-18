@@ -1,0 +1,30 @@
+$primary-color: midnightblue;
+$text-color: lightsteelblue;
+
+body {
+   background-color: $primary-color;
+   color: $text-color;
+}
+
+div {
+    font-family: arial;
+}
+
+table {
+    margin: auto;
+    tr td {
+        border: 1px solid gray;
+        width: 50px;
+        height: 50px;
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+    }
+}
+
+#info {
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}

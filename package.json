@@ -1,0 +1,23 @@
+{
+  "name": "math-puzzle",
+  "version": "1.0.0",
+  "description": "A simple math puzzle",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math",
+    "puzzle"
+  ],
+  "author": "Rafael Machado Decourt <rafael.decourt@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-typescript": "^3.1.6",
+    "gulp-uglify": "^2.1.2",
+    "typescript": "^2.2.2"
+  }
+}
